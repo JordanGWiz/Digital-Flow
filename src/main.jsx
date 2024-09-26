@@ -6,7 +6,7 @@ import App from "./App";
 import ErrorPage from "./pages/Error";
 import About from "./pages/AboutMe";
 import Contact from "./pages/Contact";
-import Portfolio from "./pages/portfolio";
+import Portfolio from "./pages/portforlio";
 import Resume from "./pages/Resume";
 
 const routerConfig = [
