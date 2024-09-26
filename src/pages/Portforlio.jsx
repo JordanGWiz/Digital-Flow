@@ -28,12 +28,11 @@ const projectData = [
   },
 ];
 
-
 const Portfolio = () => {
   return (
-    <div className="portfolioCardContainer">
-      <h1 className="portfolioCardTitle">Portfolio</h1>
-      <div className="portfolioCustomCard">
+    <div className="portfolioContainer">
+      <h1 className="portfolioHeading">Portfolio</h1>
+      <div className="portfolioGrid">
         {projectData.map((project, index) => (
           <Project
             key={index}

@@ -1,11 +1,15 @@
+import React from "react";
+import "../styles/style.css";
+
 const Resume = () => {
   return (
-    <div>
+    <div className="resume-container">
       <h1>Resume</h1>
-      <p>This is the resume page.</p>
+      <div className="resume-card">
+        <p>coming soon!!</p>
+      </div>
     </div>
   );
 };
 
 export default Resume;
-
