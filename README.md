@@ -32,8 +32,5 @@ Hello I'm Jordan! This dynamic single-page application is crafted to highlight m
 
 [Link to Deployed Portfolio]()
 
-![Screenshot of My Portfolio]()
+![Screenshot of My Portfolio](./public/images/Screenshot%202024-09-26%20184922.png)
 
-## Credits
-
-This project was made possible with the help of:
