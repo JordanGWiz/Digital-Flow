@@ -30,7 +30,7 @@ Hello I'm Jordan! This dynamic single-page application is crafted to highlight m
 
 - You will be redirected to the application: `http://localhost:3000/`
 
-[Link to Deployed Portfolio]()
+[Link to Deployed Portfolio](https://jordandigitalflow.netlify.app/)
 
 ![Screenshot of My Portfolio](./public/images/Screenshot%202024-09-26%20184922.png)
 
